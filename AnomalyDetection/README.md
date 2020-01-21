@@ -13,7 +13,7 @@
 ##### SVM
 ##### GMM
 ##### 贝叶斯网络(Bayesian Networks)
-##### KNN
+
 #### 无监督
 ##### DBScan(基于密度的聚类)
 ##### Spectral Clustering(谱聚类)
